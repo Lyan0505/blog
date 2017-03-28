@@ -22,13 +22,26 @@ vue2 gh-pages blog
 执行完以上代码，我们打包完的dist文件夹下的内容就被推送到了仓库的gh-pages分支，然后我们就可以使用 yourGithubName.github.io/仓库名/ 来访问演示内容啦。
 
 
-### 2. TodoList 
+### 2. TodoList
 
-用户注册  
+用户注册  （未完成）
 
-用户登录  
+用户登录  （已完成）
 
-发送邮件  
+发送邮件   (已完成)
 
-评论系统  
+评论系统  （未完成）
+
+点赞系统	 （未完成）
+
+标签部分   （未完成）
+
+分享部分   （未完成）
+
+
+### 参考项目
+
+mmf-blog-vue2: [https://github.com/lincenying/mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2)
+
+vue-ghpages-blog: [https://github.com/viko16/vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog)
 
