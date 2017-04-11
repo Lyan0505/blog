@@ -84,7 +84,7 @@
 
 - 前端语言：熟练并能运用和HTML，CSS，JavaScript进行前端代码实现，了解并能使用最新的ES6
 
-- 后端语言：了解并使用过Nodejs
+- 后端语言：了解并使用过Nodejs，仿写过express_blog
 
 - 前端框架：能熟练运用Jquery，Ajax等技术，熟练使用vue-cli来开发前后端分离的单页应用
 
