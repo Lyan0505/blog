@@ -40,23 +40,43 @@
 
 ## 工作经历
 
-###  心成工作室（实习）（2015.04 ~ 2015.08)
+###  上海辣之椒网络科技有限公司（实习）（2015.04 ~ 2015.9)
 
-- 网络管理员
-- 简单静态网页切图还原 
+1. 负责公司官网[www.yunzhaoshang.net](www.yunzhaoshang.net)前端部分的开发
+
+	 主要技术栈：jquery + flat-ui
 
 
 ### 开业啦（上海）网络科技有限公司（2015.10 ~ 2016.09）
 
-- 开业啦官网及移动端的维护与需求添加工作[http://kyl.biz/index.html](http://kyl.biz/index.html)
+1. 开业啦官网及移动端的维护与需求添加工作[http://kyl.biz/index.html](http://kyl.biz/index.html) 
+ 
 
-- 政府外包项目的前端开发
+	 主要技术栈：meteor + jquery + bootstrap
+
+
+2. 政府外包项目的前端开发，主要工作为切图+前端逻辑的实现(web + mobile)
+
+
+ 	主要技术栈：meteor + jquery + bootstrap
+
 
 ### 江苏第三极网络有限公司（2016.10 ~ 至今）
 
-1. Take saas平台开发 (require.js,jquery)
-2. Take 微信端开发 (vue-cli + vux)
-3. Take 第三方盒子管理平台开发 (vue-cli + elementUI)
+1. Take saas平台开发  
+	
+	主要技术栈： 公司基于amd规范自创前端模块化框架 + jquery
+
+2. Take 微信端开发  
+	
+	微信端重构与升级 vue1.0 => vue2.0  
+	主要技术栈： vue全家桶 + vux	
+
+3. Take 第三方盒子管理平台开发
+
+	该平台主要用于take管理所有售出TAKEBOX的状态与盒子数据统计与分析  
+	主要技术栈：vue全家桶 + elementUI + echarts
+
 4. 活动页面的开发
 
 
@@ -64,10 +84,15 @@
 
 ### 开源项目
 
- - [vue2.0版英雄联盟助手](https://github.com/arronf2e/Vue2.0LOL)：使用vue-cli进行开发，调用第三方API，实现简易版助手
-
- - [vue2.0版博客（简易版）](https://github.com/arronf2e/vue2-blog-ghpages) : 使用vue-cli进行开发，调用githubapi获取blog仓库文章，用工具解析md文件生成html博客
+ - [vue2.0版英雄联盟助手](https://github.com/arronf2e/Vue2.0LOL)  
  
+ 	使用vue-cli进行开发，调用第三方API，实现简易版LOL助手  
+ 	主要技术栈：vue全家桶 + museui
+
+ - [vue2.0版博客（简易版）](https://github.com/arronf2e/vue2-blog-ghpages)  
+ 
+ 	使用vue-cli进行开发，调用githubapi获取blog仓库文章，用工具解析md文件生成html博客
+  
  - 更多零碎的代码都在我的 [Github](https://github.com/arronf2e) 上
 
 ### 技术文章
@@ -96,7 +121,7 @@
 
 ## 兴趣爱好
 
-- 社区爱好：喜欢逛微博、segmentfault，发表个人观点，喜欢在上面结交各类朋友
+- 社区爱好：常年活跃于各种技术社区，喜欢发表个人观点，喜欢在上面结交各类技术朋友
 
 - 极客精神：热爱代码，热爱前端
 
